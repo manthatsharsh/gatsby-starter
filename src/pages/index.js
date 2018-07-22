@@ -3,9 +3,10 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>Hi!</h1>
+    <p>Welcome to my Gatsby site.</p>
+    <p>This is a test. I want to see how easy it is to deploy using Netlify and Github.</p>
+    <p>Thanks for visiting. -Harsh</p>
     <Link to="/page-2/">Go to page 2</Link>
   </div>
 )
